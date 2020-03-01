@@ -1,0 +1,11 @@
+pythonstudy.iml
+.idea/
+.idea
+.idea/*
+.vscode
+
+*.zip
+longgb/Scripts/PyCode/test_sphinx/test_xxx/src
+longgb/Scripts/PyCode/test_sphinx/test_xxx/src/*
+longgb/Scripts/PyCode/test_sphinx/test_xxx/src_tt
+longgb/Scripts/PyCode/test_sphinx/test_xxx/src_tt/*
