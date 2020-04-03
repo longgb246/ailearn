@@ -4,8 +4,16 @@ pythonstudy.iml
 .idea/*
 .vscode
 
+
+# zip
 *.zip
 longgb/Scripts/PyCode/test_sphinx/test_xxx/src
 longgb/Scripts/PyCode/test_sphinx/test_xxx/src/*
 longgb/Scripts/PyCode/test_sphinx/test_xxx/src_tt
 longgb/Scripts/PyCode/test_sphinx/test_xxx/src_tt/*
+
+# cache
+__pycache__
+
+# data
+longgb/DL_learn/data
