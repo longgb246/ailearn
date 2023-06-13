@@ -3,6 +3,7 @@ pythonstudy.iml
 .idea
 .idea/*
 .vscode
+.pytest_cache/*
 
 
 # zip
